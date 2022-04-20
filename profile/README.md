@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png)
+![Untitled design (1)](https://user-images.githubusercontent.com/96917595/164248471-d8b73dc0-ea07-486f-926f-636c1de37767.gif)
+
 
 # GitHub Community
 GitHub Community is built to support all GitHub users on their educational journey, via Discussions. It is a resource hub, learning portal, and inspiration station, all in one. Regardless of how big or small your challenge is, all resources and information will be accessible in a true open source fashion. 
